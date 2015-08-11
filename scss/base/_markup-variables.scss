@@ -1,0 +1,49 @@
+// brand colors (http://name-of-color.com/)
+$black: #000;
+$white: #fff;
+$mountain-mist: #999;
+$ironside-gray: #666;
+$mayablue:#54c7fd;
+$yellow:#ffcd00;
+$mediumblue:#7b54e5;
+$emerald:#50de72;
+$coralred:#ff3c45;
+$java:#29c7b2;
+$neoncarrot:#ff912a;
+$azureradiance:#008efe;
+$riverbed:#3e4c5a;
+$spirodiscoball:#1dc7ea;
+$deepcarminepink:#e73130;
+$mineshaft:#333;
+$bahamablue:#069;
+$blackhaze:#f6f6f6;
+$indigo:#587aca;
+$mayablue1:#5dc8ff;
+$facbook:#0F6;
+$gallery:#eee;
+$saffronmango:#f8c351;
+$fern:#50c05f;
+$charade:#2b2d3a;
+$stardust:#9fa0a4;
+
+
+// base variables
+$base-text-color: $ironside-gray;
+$base-background-color: $white;
+$base-link-color: $ironside-gray;
+$base-form-text-color: $black;
+$base-form-placeholder-color: $mountain-mist;
+$base-input-border-color: $mountain-mist;
+$base-form-button-bg: $black;
+$base-form-button-color: $white;
+
+$base-font-size: 16px;
+$base-line-height: 22px;
+$base-font-family: 'Arial', 'Helvetica', sans-serif;
+$base-text-interval: ($base-font-size * $base-line-height);
+
+$base-min-width: 320px;
+$lato: 'Lato', 'Arial', 'Helvetica', sans-serif;
+
+// @font-face-serif: 
+// @font-face-sans-serif: 
