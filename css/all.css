@@ -870,6 +870,14 @@ h4 a:hover {
 	color: #fff;
 }
 
+.soical-list li a.instagram:hover {
+	background: #3B8EDE;
+}
+
+.soical-list li a.instagram:hover .icon-icon14 {
+	color: #fff;
+}
+
 .soical-list li a.twitter:hover {
 	background: #5dc8ff;
 }
@@ -1689,4 +1697,4 @@ h4 a:hover {
 		font-size: 12px;
 	}
 }
-
+
