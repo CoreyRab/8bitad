@@ -2,11 +2,11 @@
 	//****************************************
 	//edit here
 	$senderName = '8bit form';                          
-	$senderEmail = 'site@example.com';            
+	$senderEmail = 'hello@use8bit.com';            
 	$targetEmail = 'info@use8bit.com';           
 	$messageSubject = 'Message from web-site';    
 	$redirectToReferer = true;                    
-	$redirectURL = 'http://www.use8bit.com';               
+	$redirectURL = 'http://use8bit.com';               
 	//****************************************
 
 	// mail content
